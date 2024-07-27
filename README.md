@@ -1,0 +1,1 @@
+# urun-yorumlar-n-degerlendirme
