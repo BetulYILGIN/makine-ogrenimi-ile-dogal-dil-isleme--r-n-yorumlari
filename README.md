@@ -90,20 +90,11 @@ This project implements a text classification system that analyzes positive and 
 ## Example Output
 ```
 TF-IDF scores calculated
-Fold 1 - Accuracy: 0.85, F1-score: 0.84
-Fold 2 - Accuracy: 0.88, F1-score: 0.87
-Fold 3 - Accuracy: 0.86, F1-score: 0.85
+Fold 1 - Accuracy: 0.92, F1-score: 0.91
+Fold 2 - Accuracy: 0.94, F1-score: 0.93
+Fold 3 - Accuracy: 0.93, F1-score: 0.92
 ...
-Overall Accuracy: 0.86
-Overall F1-score: 0.85
+Overall Accuracy: 0.93
+Overall F1-score: 0.92
 ```
 
----
-
-## Contribution
-Feel free to open issues or submit pull requests to improve the project!
-
----
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
